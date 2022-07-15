@@ -3,7 +3,7 @@ info:
   description: This is a subset of the NCR Selling Cart Service written in Go, devised
     as a Summer 2022 intern project.
   title: Selling Cart Service API
-  version: "1.1"
+  version: "1.0"
 paths:
   /carts:
     post:

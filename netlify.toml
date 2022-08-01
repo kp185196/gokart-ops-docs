@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/"
+  to = "/redoc-static.html"
+  status = 200
+  force = true 
